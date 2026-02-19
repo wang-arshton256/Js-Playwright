@@ -16,3 +16,12 @@ console.log(age);
 age = 50;
 console.log(age);
 
+// Constants
+const occupation = "Engineer";
+console.log(occupation);
+
+// Constants can not be reassigned values or changed during the run time
+// Constants can not be created without a value and once assigned a value, the value doesn't change
+occupation = "driver";
+console.log(occupation);
+
