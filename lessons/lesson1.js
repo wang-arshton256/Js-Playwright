@@ -25,3 +25,9 @@ console.log(occupation);
 occupation = "driver";
 console.log(occupation);
 
+// Data types
+var middleName = "David"; // string
+var ageOfBrother = 25;  ///number
+var isHeMarried = false // boolean
+var yearsOfMarriage = null // null or no value
+var numberOfCars = undefined  // undefined
